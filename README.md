@@ -7,7 +7,8 @@ ToDoList App demonstrates modern Android development with Hilt, Coroutines, Live
 </p>
 
 # Screenshots:
-<img src="/Downloads/SS1.jpg" height="400px"/> <img src="/screenshots/night1.png" height="400px"/> 
+![SS1](https://github.com/MahitejVardhan/KEKAMVSR240016-MAHITEJ-TODOLIST/assets/133677337/bb5988a4-dfa0-4bbe-97fb-976ac0245268) 
+<img src="/screenshots/night1.png" height="400px"/> 
 <img src="/screenshots/day2.png" height="400px"/> <img src="/screenshots/night2.png" height="400px"/> 
 <img src="/screenshots/day3.png" height="400px"/> <img src="/screenshots/night3.png" height="400px"/>
 <img src="/screenshots/day4.png" height="400px"/> <img src="/screenshots/night4.png" height="400px"/> 
