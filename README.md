@@ -3,8 +3,7 @@
 
 
 <p >  
-ToDoList App demonstrates modern Android development with Hilt, Coroutines, LiveData, Jetpack (Room, ViewModel), and Material 3 Design based on MVVM architecture.
-
+ToDoList App is a simple and intuitive task management application designed to help you stay organized and focused. With an easy-to-use interface, powerful features, and seamless synchronization across devices, managing your tasks has never been more convenient.
   I have done this with
   -organizing all the Categories with vibrant colors
   -quickly create and update tasks
