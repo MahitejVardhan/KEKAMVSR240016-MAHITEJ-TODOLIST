@@ -13,6 +13,7 @@ ToDoList App demonstrates modern Android development with Hilt, Coroutines, Live
 </p>
 
 # Screenshots:
+
 ![SS1](https://github.com/MahitejVardhan/KEKAMVSR240016-MAHITEJ-TODOLIST/assets/133677337/bb5988a4-dfa0-4bbe-97fb-976ac0245268) 
 ![SS2](https://github.com/MahitejVardhan/KEKAMVSR240016-MAHITEJ-TODOLIST/assets/133677337/570b49b9-8dba-4128-974e-38609fe8c6f5)
 ![SS3](https://github.com/MahitejVardhan/KEKAMVSR240016-MAHITEJ-TODOLIST/assets/133677337/ded02cef-51ba-4d85-ab9b-982f750688ed)
@@ -23,6 +24,25 @@ ToDoList App demonstrates modern Android development with Hilt, Coroutines, Live
 ![SS9](https://github.com/MahitejVardhan/KEKAMVSR240016-MAHITEJ-TODOLIST/assets/133677337/d01e91ac-cae1-4d97-a3ae-d538fb096cd8)
 
 
+## How to Set Up and Run the Application:
+
+1. Clone or download the repository.
+
+2. Open the project in Android Studio.
+
+3. Run the application on an emulator or a physical Android device.
+
+4. The main screen allows you to navigate to view tasks.
+
+5. On the "View Tasks" screen, you can see a list of tasks.
+
+6. New task can be added by clicking the plus symbol at right bottom corner.
+
+7. Categorize the tasks accordingly.
+
+8. Update the status of the task performed when completed
+
+   
 ## Open-source libraries
 - Minimum SDK level 26
 - [Kotlin](https://kotlinlang.org/)
