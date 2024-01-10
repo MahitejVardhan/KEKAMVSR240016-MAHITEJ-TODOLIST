@@ -63,8 +63,6 @@ ToDoList App is a simple and intuitive task management application designed to h
 
 ![architecture](figure/figure0.png)
 
-## Room Database Structure
-![database structure](figure/RoomDBStructure.png)
 
 
 
